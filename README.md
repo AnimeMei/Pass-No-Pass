@@ -1,5 +1,5 @@
 # *Pass-No-Pass*
-BeachHacks2017 - Grade Progress Tracker. Students' Life Saver.
+BeachHacks2017 - Grade Progress Tracker. THE SCHOOL LIFE SAVER.
 
 **Pass-No-Pass** is a calculator app that able to precisely calculate the students' grade status during the semester.
 Until like products already out in the market which unable to allow users to view grade status until the end of semester.
