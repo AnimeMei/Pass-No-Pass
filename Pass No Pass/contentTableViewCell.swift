@@ -9,11 +9,11 @@
 import UIKit
 
 class contentTableViewCell: UITableViewCell {
-
+   
     @IBOutlet weak var itemTItle: UILabel!
     @IBOutlet weak var itemScore: UILabel!
     @IBOutlet weak var itemMaxScore: UILabel!
-   
+    
     
     override func awakeFromNib() {
         super.awakeFromNib()

@@ -307,7 +307,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <prototypes>
-                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="contentCell" rowHeight="54" id="dSK-Zg-Rwo" customClass="SwipeTableViewCell" customModule="SwipeCellKit">
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="contentCell" rowHeight="54" id="dSK-Zg-Rwo" customClass="contentTableViewCell" customModule="Pass_No_Pass" customModuleProvider="target">
                                         <rect key="frame" x="0.0" y="28" width="375" height="54"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="dSK-Zg-Rwo" id="nnh-AG-Kn7">
@@ -345,9 +345,9 @@
                                             </subviews>
                                         </tableViewCellContentView>
                                         <connections>
-                                            <outlet property="itemMaxScore" destination="IMB-hR-9Ac" id="nov-J0-wfx"/>
-                                            <outlet property="itemScore" destination="FZJ-BR-esD" id="jSq-Ha-hpq"/>
-                                            <outlet property="itemTItle" destination="rYC-Do-enz" id="xpB-eH-hfa"/>
+                                            <outlet property="itemMaxScore" destination="IMB-hR-9Ac" id="BlX-yA-NUg"/>
+                                            <outlet property="itemScore" destination="FZJ-BR-esD" id="UI9-0z-VYr"/>
+                                            <outlet property="itemTItle" destination="rYC-Do-enz" id="8fq-V7-Csc"/>
                                         </connections>
                                     </tableViewCell>
                                 </prototypes>
